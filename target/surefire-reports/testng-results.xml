@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-11T16:13:49 CST" name="Suite" finished-at="2023-02-11T16:14:07 CST" duration-ms="18199">
+    <groups>
+    </groups>
+    <test started-at="2023-02-11T16:13:49 CST" name="Test" finished-at="2023-02-11T16:14:07 CST" duration-ms="18199">
+      <class name="seleniumprojectPAVAN.FirstTestNG">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:seleniumprojectPAVAN.FirstTestNG@708f5957]" started-at="2023-02-11T16:13:49 CST" name="beforeClass" finished-at="2023-02-11T16:13:55 CST" duration-ms="6344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="Dashboard()[pri:0, instance:seleniumprojectPAVAN.FirstTestNG@708f5957]" started-at="2023-02-11T16:13:55 CST" name="Dashboard" finished-at="2023-02-11T16:14:05 CST" duration-ms="10061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dashboard -->
+        <test-method signature="Login()[pri:1, instance:seleniumprojectPAVAN.FirstTestNG@708f5957]" started-at="2023-02-11T16:14:05 CST" name="Login" finished-at="2023-02-11T16:14:07 CST" duration-ms="1419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:seleniumprojectPAVAN.FirstTestNG@708f5957]" started-at="2023-02-11T16:14:07 CST" name="afterClass" finished-at="2023-02-11T16:14:07 CST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- seleniumprojectPAVAN.FirstTestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
